@@ -1,4 +1,4 @@
-# Explore-US-Bikeshare-Data
+# US-Bikeshare-Data
 FWD Data Analysis Professional Track First Project
 
 Tools used:
